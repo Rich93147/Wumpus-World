@@ -16,10 +16,10 @@ REQUIREMENTS
 Python 3.10+
 
 DEPENDENCIES
-Pygame (install with pip using: pip install pygame)
+PyGame (install with pip using: pip install pygame)
 
 HOW TO RUN:
-After confirming proper program structure, run Main.py. A window will open up
+After confirming proper program structure, run Main.py. A window will open up.
 
 Game documentation:
 The AI runs off of precepts provided to the player. Wumpus' give off "stink" precepts that are given to the player when they stand on an adjacent square to a Wumpus. There can only be one Wumpus on the board.
